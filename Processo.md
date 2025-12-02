@@ -97,7 +97,7 @@ O processo robotizado contempla duas frentes principais:
 
 ---
 
-# **Melhorias Implementadas no Processo**
+# **Melhorias Identificadas no Processo**
 - Padronização dos campos da planilha de faturamento.
 - Execução **totalmente diária** (incluindo fins de semana).
 - Automatização via API reduz falhas manuais e elimina retrabalho.
