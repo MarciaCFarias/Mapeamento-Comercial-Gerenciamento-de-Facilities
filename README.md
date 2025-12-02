@@ -2,8 +2,8 @@
 ---
 **Objetivo do Mapeamento Comercial**
 
-O principal objetivo é entender e padronizar como o cliente realiza suas atividades comerciais para permitir melhorias contínuas, reduzir retrabalho e eliminar gargalos. 
-Além disso, serve como base para criar playbooks de vendas, definir SLAs, identificar oportunidades de automação e alinhar expectativas entre times internos e fornecedores.
+O principal objetivo é entender e padronizar como o cliente realiza suas atividades para permitir melhorias contínuas, reduzir retrabalho e eliminar gargalos. 
+Além disso, serve como base para definir SLAs, identificar oportunidades de automação e alinhar expectativas entre times internos e fornecedores.
 
 **Importância de realizar o mapeamento**
 Realizar o mapeamento evita procedimentos informais e inconsistentes que geram perda de produtividade e falhas de comunicação. 
