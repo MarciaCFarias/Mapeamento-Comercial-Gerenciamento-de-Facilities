@@ -3,8 +3,6 @@
 ## **Fluxo TO BE – Visão Geral das Duas Frentes**
 O processo robotizado contempla duas frentes principais:
 
----
-
 # **1ª Frente — Monitoramento de Inconsistências no Cartão de Ponto (TO BE)**
 
 ## **1. Detalhamento do Fluxo TO BE**
